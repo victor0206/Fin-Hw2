@@ -52,7 +52,7 @@ best.append(1)
 
 now = 5
 for i in range(len(best) - 1):
-    print(now)
+    print(now, end='->')
     now = count(now, best[i], best[i + 1])
 print(now)
 for i in range(len(best)):

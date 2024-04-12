@@ -7,6 +7,7 @@ Provide your profitable path, the amountIn, amountOut value for each swap, and y
 
 > Solution
 > tokenB->tokenA->tokenD->tokenC->tokenB
+> 
 > 5 -> 5.655321988655322 -> 2.4587813170979333 -> 5.0889272933015155 -> 20.129888944077443
 
 ## Problem 2
