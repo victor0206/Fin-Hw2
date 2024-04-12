@@ -47,6 +47,8 @@ def dfs(x, m, start):
             dfs(i, count(m, x, i), start)
     path.pop()
     vis[x] = 0
+
+
 dfs(1, 5, 1)
 best.append(1)
 
